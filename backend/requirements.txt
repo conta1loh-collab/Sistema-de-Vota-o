@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+pydantic
+pydantic-settings
+sqlite
+python-multipart
+pandas
+openpyxl
+uvicorn
+python-dotenv
