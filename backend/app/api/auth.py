@@ -55,8 +55,8 @@ def get_waiting_voters(db: Session = Depends(get_db)):
 @router.post("/admin/login")
 def admin_login(data: dict):
     # Simple hardcoded check as requested
-    if data.get("username") == "suporte" and data.get("password") == "f1i8x3k7":
-        return {"status": "success", "user": "suporte"}
+    if data.get("username") == "mesario" and data.get("password") == "eleicao2026":
+        return {"status": "success", "user": "mesario"}
     raise HTTPException(status_code=401, detail="Credenciais Inválidas")
 
 @router.get("/election/status")

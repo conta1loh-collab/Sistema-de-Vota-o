@@ -53,8 +53,8 @@ O frontend estará acessível em `http://localhost:5173`. O parâmetro `--host` 
 
 ## Credenciais Padrão (Ambiente de Teste)
 O painel admin pode ser acessado na rota `/admin/login` com as seguintes credenciais embutidas no código para demonstração de setup inicial:
-* **Usuário:** `suporte`
-* **Senha:** `f1i8x3k7`
+* **Usuário:** `mesario`
+* **Senha:** `eleicao2026`
 
 > ⚠️ Atenção: Num ambiente de produção real, certifique-se de abstrair essas credenciais em variáveis de ambiente `.env`.
 
