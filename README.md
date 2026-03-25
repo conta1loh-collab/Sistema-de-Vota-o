@@ -4,7 +4,7 @@ Este é um sistema de votação eletrônica completo desenvolvido para eleiçõe
 
 O sistema simula com precisão a interface de uma urna eletrônica brasileira e oferece um painel administrativo seguro.
 
-!!!Atenção esse é um sistema desenvolvido vi vibe coding, use por conta e risco!!!
+!!!Atenção esse é um sistema desenvolvido por vibe coding, use por conta e risco!!!
 
 ## Funcionalidades Principais
 - 🔒 **Interface Premium e Responsiva**: Simulação exata de teclado e visor da urna eletrônica.
